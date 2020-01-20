@@ -28,6 +28,7 @@ num2 = 5
 num1 % num2 
 end
 
-def square_root
-return Math.sqrt(81) 
+def square_root(num)
+num = 9
+num ** 2 
 end
