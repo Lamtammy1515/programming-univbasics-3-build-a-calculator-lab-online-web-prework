@@ -30,5 +30,5 @@ end
 
 def square_root
 Math.sin(81)
-puts num  
+puts 9 
 end
