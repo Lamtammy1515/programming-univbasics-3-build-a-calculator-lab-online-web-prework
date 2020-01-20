@@ -29,6 +29,6 @@ num1 % num2
 end
 
 def square_root(num)
-num = cmath.sqrt(81) 
+num = math.sin(81) 
 puts num  
 end
