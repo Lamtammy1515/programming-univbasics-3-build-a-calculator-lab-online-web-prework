@@ -29,6 +29,6 @@ num1 % num2
 end
 
 def square_root(num)
-num = Math.sqrt(81)
+num == Math.sqrt(81)
 puts num  
 end
