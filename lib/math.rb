@@ -28,6 +28,6 @@ num2 = 5
 num1 % num2 
 end
 
-def square_root(num)
-Math.sin(81) 
+def square_root
+Integer.sqrt(81) 
 end
