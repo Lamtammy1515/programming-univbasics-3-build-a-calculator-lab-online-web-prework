@@ -29,6 +29,6 @@ num1 % num2
 end
 
 def square_root(num)
-num = 9
+num = 81
 num ** 2 
 end
