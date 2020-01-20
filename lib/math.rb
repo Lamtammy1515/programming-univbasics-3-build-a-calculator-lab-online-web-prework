@@ -28,7 +28,7 @@ num2 = 5
 num1 % num2 
 end
 
-def square_root(num)
+def square_root
 num = Math.sqrt(81)
 puts num  
 end
