@@ -29,6 +29,6 @@ num1 % num2
 end
 
 def square_root(num)
-num = 81 
-num **  
+num = cmath.sqrt81 
+num  
 end
